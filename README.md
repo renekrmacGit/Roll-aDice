@@ -8,7 +8,7 @@ The application takes input for 3 players, rolls 3 dice for each, calculates the
 ### 🌍 Live Application Link
 The application is hosted on a virtual server and can be accessed via the following link:
 
-👉 **[Access the Live Dice Game Here](http://ip/Dice/)**
+👉 **[Access the Live Dice Game Here](http://localhost/Roll-aDice-main/Roll-aDice-main/index.html)**
 
 ### ⚙️ Features & Requirements Fulfilled
 * **User Input:** Accepts First Name, Last Name, and Address for 3 different players via an HTML form.
